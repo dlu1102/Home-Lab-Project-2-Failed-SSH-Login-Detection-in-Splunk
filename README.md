@@ -31,11 +31,11 @@ Simulate a brute-force login detection workflow in Splunk by ingesting SSH log d
 
 ##   Sample Output
 
-   src_ip                    |user                    |count
+   src_ip                    | user                    | count
    
-   192.168.0.5               |wronguser               |12
+   192.168.0.5               | wronguser               | 12
 
-   192.168.0.8               |admin                   |8
+   192.168.0.8               | admin                   | 8
 
 🚀 Lessons Learned
 
